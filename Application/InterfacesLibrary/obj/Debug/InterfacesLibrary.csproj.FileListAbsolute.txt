@@ -1,0 +1,9 @@
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\obj\Debug\InterfacesLibrary.csprojAssemblyReference.cache
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\obj\Debug\InterfacesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\bin\Debug\InterfacesLibrary.dll
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\bin\Debug\InterfacesLibrary.pdb
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\bin\Debug\CommonTypesLibrary.dll
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\bin\Debug\CommonTypesLibrary.pdb
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\obj\Debug\InterfacesLibrary.csproj.CopyComplete
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\obj\Debug\InterfacesLibrary.dll
+C:\Users\kimso\source\repos\Application\InterfacesLibrary\obj\Debug\InterfacesLibrary.pdb

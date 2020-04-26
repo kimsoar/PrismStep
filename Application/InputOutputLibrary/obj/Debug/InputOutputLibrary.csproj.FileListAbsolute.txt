@@ -1,0 +1,11 @@
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\obj\Debug\InputOutputLibrary.csprojAssemblyReference.cache
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\obj\Debug\InputOutputLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\bin\Debug\InputOutputLibrary.dll
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\bin\Debug\InputOutputLibrary.pdb
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\bin\Debug\CommonTypesLibrary.dll
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\bin\Debug\InterfacesLibrary.dll
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\bin\Debug\CommonTypesLibrary.pdb
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\bin\Debug\InterfacesLibrary.pdb
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\obj\Debug\InputOutputLibrary.csproj.CopyComplete
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\obj\Debug\InputOutputLibrary.dll
+C:\Users\kimso\source\repos\Application\InputOutputLibrary\obj\Debug\InputOutputLibrary.pdb

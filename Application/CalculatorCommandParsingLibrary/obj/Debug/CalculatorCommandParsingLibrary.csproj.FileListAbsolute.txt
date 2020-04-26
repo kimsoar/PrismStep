@@ -1,0 +1,11 @@
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\bin\Debug\CalculatorCommandParsingLibrary.dll
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\bin\Debug\CalculatorCommandParsingLibrary.pdb
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\bin\Debug\CommonTypesLibrary.dll
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\bin\Debug\CommonTypesLibrary.pdb
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\obj\Debug\CalculatorCommandParsingLibrary.csprojAssemblyReference.cache
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\obj\Debug\CalculatorCommandParsingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\obj\Debug\CalculatorCommandParsingLibrary.csproj.CopyComplete
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\obj\Debug\CalculatorCommandParsingLibrary.dll
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\obj\Debug\CalculatorCommandParsingLibrary.pdb
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\bin\Debug\InterfacesLibrary.dll
+C:\Users\kimso\source\repos\Application\CalculatorCommandParsingLibrary\bin\Debug\InterfacesLibrary.pdb
